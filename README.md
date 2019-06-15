@@ -4,6 +4,7 @@
 
 1. [Step-by-step explanation](#Explanation)  
 2. [Challenges](#Challenges)  
+3. [Demo](#Demo) 
  
 <a name="Explanation"/>
 
@@ -32,3 +33,11 @@ It would be interesting to be able to show the information of these transactions
 The first difficulty was in the choice of the technologies and languages involved and in the preparation of the environment to connect to the MongoDB tables. In order to use PHP, a local environment has been prepared through the driver for PHP and XAMPP. Subsequently, an instance of AWS EC2 had to be configured by SSH to configure this environment in depth and make it possible for the languages and technologies involved to be connected.
 
 With the use of Vue.js the view is simplified and you get a single page experience that I was looking for.
+
+<a name="Demo"/>
+
+### 3.	Demo
+
+You can try the web app through this link:
+
+http://appmongodb-env.skzfdgfiaj.us-east-1.elasticbeanstalk.com/
